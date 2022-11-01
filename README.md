@@ -1,6 +1,7 @@
-### Hola Mundooo! 👋
+![header](https://user-images.githubusercontent.com/104111293/199321095-f0a120ce-8fba-4487-89df-71ca0a255051.png)
+
   <br>
-A principio del 2022 decidi probar suerte postulando a Laboratoria para aprender programacion sin tener mucho conocimiento al respecto.<br>
+A principios del 2022 decidi probar suerte postulando a Laboratoria para aprender programacion sin tener mucho conocimiento al respecto.<br>
 Lamentablemente en esa oportunidad no quedé, pero solo con hacer la semana de preadmision y el pretrabajo quedé enamorada del desarrollo web. <br>
 Decidí que queria dedicarme en serio a la programación, postulé una segunda vez, esta vez hice que mi vida girara en torno a quedar en el bootcamp, y... AL FIN!! 🎉 Se logró!! 🥳 <br>
  <br>
@@ -12,4 +13,4 @@ pero por sobre todo muchas ganas de probarme a mi misma que nada es imposible, q
 - 🌱 Estoy aprendiendo React<br>
 - ⚡ Fun fact: Me encantan los tatuajes, los gatitos y las artes plasticas. <br>
 
-  
+ 
