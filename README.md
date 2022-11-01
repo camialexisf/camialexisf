@@ -13,4 +13,6 @@ pero por sobre todo muchas ganas de probarme a mi misma que nada es imposible, q
 - 🌱 Estoy aprendiendo React<br>
 - ⚡ Fun fact: Me encantan los tatuajes, los gatitos y las artes plasticas. <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camialexisf&theme=gruvbox_light)
+
  
