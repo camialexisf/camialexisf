@@ -1,16 +1,11 @@
 ![header](https://user-images.githubusercontent.com/104111293/199321095-f0a120ce-8fba-4487-89df-71ca0a255051.png)
 
   <br>
-A principios del 2022 decidi probar suerte postulando a Laboratoria para aprender programacion sin tener mucho conocimiento al respecto.<br>
-Lamentablemente en esa oportunidad no quedé, pero solo con hacer la semana de preadmision y el pretrabajo quedé enamorada del desarrollo web. <br>
-Decidí que queria dedicarme en serio a la programación, postulé una segunda vez, esta vez hice que mi vida girara en torno a quedar en el bootcamp, y... AL FIN!! 🎉 Se logró!! 🥳 <br>
- <br>
-Actualmente me encuentro cursando los ultimos meses del bootcamp y ha sido una experiencia maravillosa, llena de victorias, bloqueos, risas, frustraciones,
-pero por sobre todo muchas ganas de probarme a mi misma que nada es imposible, que todo se puede aprender y que siempre siempre se puede preguntar (viva Google jaja). 
+Una de las facetas que más disfruto de mi trabajo es poder ver la aplicación desde la perspectiva del usuario. Creo firmemente en la necesidad de hacer que la tecnología sea inclusiva, por lo que me esfuerzo en contribuir al desarrollo de plataformas que sean cómodas, de calidad  y brinden accesibilidad a todos los usuarios.
 <br>
 
 #### Un poco más sobre mi: <br>
-- 🌱 Estoy aprendiendo React<br>
+- 🌱 Soy QA en una fintech<br>
 - ⚡ Fun fact: Me encantan los tatuajes, los gatitos y las artes plasticas. <br>
 
 #### Lenguajes y herramientas utilizadas:
